@@ -16,11 +16,15 @@ chmod + launch.sh
 ```
 # sudoers
 [Mr.bangi](telegram.me/mr_bangi)
+
 [shahab](telegram.me/Emc_Developer)
+
 [Mobin](telegram.me/Emc_Founder)
+
 [Arshia](telegram.me/Dev_Telegram)
+
 [pouria](telegram.me/Ww_Developer_wW)
 
 # join to EMC channel
 
-# (E M C)[telegram.me/EMCTM)
+# [E M C](telegram.me/EMCTM)
